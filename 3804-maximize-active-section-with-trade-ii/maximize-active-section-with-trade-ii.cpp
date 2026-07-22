@@ -1,5 +1,5 @@
 #include <ranges>
-
+// POTD - Solve again later by yourself.
 struct Group {
   int start;
   int length;
